@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uriah , an Open Source Advocate</h1>
 
 <h3 align="center">Founder Of <a href="https://goldcoders.dev">Goldcoders Corp.</a> A Software Dev Company in The 🇵🇭</h3>
+
 <h3 align="center">Creator Of <a href="https://thriftshop.site">Thriftshop Apps</a>Promoting Free Sites For Everyone and Community Driven App Development</h3>
 
 ![](https://komarev.com/ghpvc/?username=goldcoders)
