@@ -9,7 +9,7 @@
 
 - 👨‍💻 I Use of Huawei Matebook 13 running **Archlinux** , A Minimalist Distro Tweaked to my own workflow,See my [Dotfiles](https://github.com/codeitlikemiley/huawei-mb13-dotfiles-archlinux), My Custom [Simple Terminal Build](https://github.com/goldcoders/st) and [Custom DWM Build](https://github.com/goldcoders/dwm). I Use it For Penetration Testing and testing New Technology on the Edge.
 - 👨‍💻 I Use Macbook Air M1 running **MacOs** , My on the Go Travel Laptop. Mainly Used for Developing iOS and MacOS Apps , see my [Mac M1 Dot Files](https://github.com/goldcoders/mac-m1-dotfiles)
-- 👨‍💻 I Use Asus G14 running **Windows** For Developing Android and Windows 10 Apps and at rare times to play games, see my [Windows 10 Dotfiles](https://github.com/goldcoders/windows-10-dotfiles)
+- 👨‍💻 I Use Asus G14 running **Windows** For Developing Android and Windows 10 Apps and at rare times to play games, see my [Windows 10 Dotfiles](https://github.com/goldcoders/windows-10-dotfiles) also my [wsl dot files](https://github.com/goldcoders/dotfiles-wsl)
 
 > Get Some Free Stuffs From Me:
 
