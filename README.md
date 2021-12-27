@@ -13,7 +13,6 @@
 
 > Get Some Free Stuffs From Me:
 
-[Free Flutter Videos and Ebooks](https://github.com/goldcoders/Flutter)
 
 [Free Data Structure Algorithm Ebooks](https://github.com/goldcoders/DSA)
 
