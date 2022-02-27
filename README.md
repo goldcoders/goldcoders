@@ -16,6 +16,7 @@
 
 [Free Data Structure Algorithm Ebooks](https://github.com/goldcoders/DSA)
 
+[Fullstack Rust Productity Tool](https://github.com/goldcoders/neovide-rust-neovim)
 
 - 📫 How to reach me **ceo@goldcoders.dev**
 
